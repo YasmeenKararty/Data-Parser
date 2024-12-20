@@ -1,0 +1,28 @@
+{
+      "market": "Data Parser Task",
+      "date_applied": 1573599600000,
+      "values": [
+        {
+          "tLabel": "Yasmeen",
+          "cLabel": "ElKararty",
+          "value": "4511",
+          "unit": "none",
+          "position": 23,
+          "chartShow": false,
+          "chartType": "none",
+          "color": null,
+          "precision": 0
+        },
+        {
+          "tLabel": "Valeo",
+          "cLabel": "noLabel",
+          "value": "01",
+          "unit": "none",
+          "position": 1,
+          "chartShow": false,
+          "chartType": "none",
+          "color": null,
+          "precision": 0
+        }
+      ]
+}
